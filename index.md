@@ -1,3 +1,4 @@
-# Welcome to my blog
+# DeadSirios
 
-I'm glad you are here. I plan to talk about ...
+I could talk about things.
+But what do I know?
