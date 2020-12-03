@@ -1,6 +1,7 @@
 title: DeadSirios
 author: GitHub User
 email: your-email@domain.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Practice github pages website.
 
